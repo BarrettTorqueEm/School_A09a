@@ -1,0 +1,7 @@
+﻿  listType.cpp
+  A09a.cpp
+  Generating Code...
+a:\visual studio projects\database programs\a09a\a09a\a09a.cpp(99): warning C4700: uninitialized local variable 'j' used
+a:\visual studio projects\database programs\a09a\a09a\listtype.cpp(90): warning C4715: 'searchL': not all control paths return a value
+  A09a.vcxproj -> A:\Visual Studio Projects\Database Programs\A09a\Debug\A09a.exe
+  A09a.vcxproj -> A:\Visual Studio Projects\Database Programs\A09a\Debug\A09a.pdb (Partial PDB)
